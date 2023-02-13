@@ -11,7 +11,7 @@
     } elseif($category == 'entertainment') {
         echo "<p>Nagpa sagirit si Jovan sa plaza kada mag ulan. Naked.</p>";
     } else {
-        echo "Welcome to IT1 News Balita";
+        echo "Welcome to IT1 News Balita";    
     }
 
 ?>
